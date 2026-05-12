@@ -1,27 +1,76 @@
-<h1 align="center">Hi 👋, I'm Ayesha Putri Azalia</h1>
-<h3 align="center">A Student Informatics Engineering at Jendral Soedirman University</h3>
+<div align="center">
+  <!-- Trick: Pake link mentah GitHub kamu -->
+  <img height="200" src="https://raw.githubusercontent.com/ayeshaazalia07-cyber/ayeshaazalia07-cyber/main/jossie-removebg-preview.png" alt="Echa's Profile Picture" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshaazalia07-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshaazalia07-cyber" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayeshaazalia07-cyber" alt="ayeshaazalia07-cyber" /></a> </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ayeshaputriazalia" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  <!-- Discord Badge - Nanti tinggal ganti '#' dengan link profile kamu -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  </a>
+</div>
 
-- 💬 Ask me about **database and alpro**
+###
 
-- 📫 How to reach me **ayeshaazalia24@gmail.com**
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayeshaazalia07-cyber&" />
+</div>
 
-- ⚡ Fun fact **Blueholic**
+###
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">hey there, i'm echa 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+###
+
 <p align="left">
-<a href="https://linkedin.com/in/ayesha putri azalia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesha putri azalia" height="30" width="40" /></a>
-<a href="https://fb.com/ayesha azalia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayesha azalia" height="30" width="40" /></a>
-<a href="https://instagram.com/@apo.chaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@apo.chaa" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/X2D6vSTrbF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/X2D6vSTrbF" height="30" width="40" /></a>
+I'm an <strong>Informatics Engineering Student</strong> at Jenderal Soedirman University.<br><br>
+- 🔭 I’m currently working on <strong>NusantaraAssets</strong> (2D Pixel Art Marketplace)<br>
+- 📚 I'm currently learning <strong>Full-stack Web Development & Database Management</strong><br>
+- ⚡ Fun fact: <strong>Blueholic 💙</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshaazalia07-cyber&show_icons=true&locale=en&layout=compact" alt="ayeshaazalia07-cyber" /></p>
+<h3 align="left">🛠 Language and tools</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshaazalia07-cyber&show_icons=true&locale=en" alt="ayeshaazalia07-cyber" /></p>
+###
+
+<div align="left">
+  <!-- HTML5, CSS3, JS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="js logo" />
+  <img width="12" />
+  <!-- Frameworks & Tools -->
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwind logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="40" alt="supabase logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+</div>
+
+###
+
+<h3 align="left">🔥 My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ayeshaazalia07-cyber&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
