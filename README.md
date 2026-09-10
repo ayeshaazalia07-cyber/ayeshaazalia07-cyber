@@ -79,10 +79,10 @@ I'm an <strong>Informatics Engineering Student</strong> at Jenderal Soedirman Un
 
 ###
 
-<h3 align="left">🎮 GitHub Contribution Game</h3>
+<h3 align="left">🚀 GitHub Space Shooter</h3>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ayeshaazalia07-cyber/ayeshaazalia07-cyber/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/ayeshaazalia07-cyber/gh-space-shooter/main/space-shooter.gif" alt="Space Shooter Animation" />
 </div>
