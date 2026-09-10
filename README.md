@@ -79,13 +79,10 @@ I'm an <strong>Informatics Engineering Student</strong> at Jenderal Soedirman Un
 
 ###
 
-<h3 align="left">🎮 Contribution Animation</h3>
+<h3 align="left">🔥 Contribution Graph</h3>
 
 ###
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayeshaazalia07-cyber/ayeshaazalia07-cyber/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/ayeshaazalia07-cyber/ayeshaazalia07-cyber/output/github-contribution-grid-snake.svg" alt="snake animation">
-  </picture>
+  <img src="https://ghchart.rshah.org/0077B5/ayeshaazalia07-cyber" alt="Echa's Github Contribution Graph" width="100%" />
 </div>
