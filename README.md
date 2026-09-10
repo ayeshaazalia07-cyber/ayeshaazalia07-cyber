@@ -74,15 +74,5 @@ I'm an <strong>Informatics Engineering Student</strong> at Jenderal Soedirman Un
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayeshaazalia07-cyber&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Echa's Github Stats" />
-</div>
-
-###
-
-<h3 align="left">🔥 Contribution Graph</h3>
-
-###
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/0077B5/ayeshaazalia07-cyber" alt="Echa's Github Contribution Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayeshaazalia07-cyber&theme=tokyonight" alt="Profile Summary Stats" />
 </div>
