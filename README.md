@@ -69,12 +69,23 @@ I'm an <strong>Informatics Engineering Student</strong> at Jenderal Soedirman Un
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ayeshaazalia07-cyber&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayeshaazalia07-cyber&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Echa's Github Stats" />
 </div>
 
 ###
+
+<h3 align="left">🎮 Contribution Animation</h3>
+
+###
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayeshaazalia07-cyber/ayeshaazalia07-cyber/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/ayeshaazalia07-cyber/ayeshaazalia07-cyber/output/github-contribution-grid-snake.svg" alt="snake animation">
+  </picture>
+</div>
